@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 print ("Olá alunas da Turma Construdelas!")
-=======
 print("Olá Mundo!")
 print("Digite o seu nome:")
 nome=input()
